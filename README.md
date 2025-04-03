@@ -1,0 +1,2 @@
+# prg
+Wstęp do programowania
